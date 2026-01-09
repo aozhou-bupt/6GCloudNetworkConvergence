@@ -4,6 +4,13 @@ layout: single
 author_profile: false
 ---
 
+<style>
+  .page__content {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+</style>
+
 1. Commutativity-guaranteed Docker Image Reconstruction towards Effective Layer Sharing[[Related Papers]](https://dl.acm.org/doi/10.1145/3485447.3512154)
 2. Privacy as a Resource in Differentially Private Federated Learning[[Related Papers]](https://ieeexplore.ieee.org/document/10228953)
 3. Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis[[Related Papers]](https://dl.acm.org/doi/10.1145/3636534.3649371)[[Source Code]](https://github.com/TiansuanConstellation/MobiCom24-SatelliteCOTS)
