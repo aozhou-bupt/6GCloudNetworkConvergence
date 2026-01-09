@@ -1,7 +1,6 @@
 ---
 permalink: /
 layout: single
-title: "Publication"
 redirect_from: 
   - /publication/
 author_profile: false
