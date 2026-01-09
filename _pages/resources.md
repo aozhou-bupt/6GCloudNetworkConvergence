@@ -4,9 +4,6 @@ layout: single
 author_profile: false
 ---
 
-
-<div style="text-align: justify;">
-
 1. Commutativity-guaranteed Docker Image Reconstruction towards Effective Layer Sharing[[Related Papers]](https://dl.acm.org/doi/10.1145/3485447.3512154)
 2. Privacy as a Resource in Differentially Private Federated Learning[[Related Papers]](https://ieeexplore.ieee.org/document/10228953)
 3. Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis[[Related Papers]](https://dl.acm.org/doi/10.1145/3636534.3649371)[[Source Code]](https://github.com/TiansuanConstellation/MobiCom24-SatelliteCOTS)
@@ -18,5 +15,3 @@ author_profile: false
 9. Communication-Efficient Satellite-Ground Federated Learning through Progressive Weight Quantization[[Related Papers]](https://ieeexplore.ieee.org/document/10415259)
 10. Delay- and Resource-Aware Satellite UPF Service Optimization[[Related Papers]](https://ieeexplore.ieee.org/document/10747265)
 11. Rethinking Cost-Efficient VM Scheduling on Public Edge Platforms : A Service Provider’s Perspective[[Related Papers]](https://ieeexplore.ieee.org/document/10738199)[[Source Code]](https://github.com/xumengwei/EdgeWorkloadsTraces)
-
-</div>
