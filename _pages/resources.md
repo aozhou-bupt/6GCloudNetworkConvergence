@@ -1,8 +1,10 @@
 ---
+permalink: /
 layout: single
 title: "resources"
-permalink: /resources/
-author_profile: true
+redirect_from: 
+  - /resources/
+author_profile: false
 ---
 
 1. Commutativity-guaranteed Docker Image Reconstruction towards Effective Layer Sharing[[Related Papers]](https://dl.acm.org/doi/10.1145/3485447.3512154)
