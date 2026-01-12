@@ -2,7 +2,7 @@
 permalink: /
 layout: single
 redirect_from: 
-  - /publication/
+  - /publications/
 author_profile: false
 ---
 
